@@ -1,3 +1,3 @@
-module "github.com/spudtrooper/wayback"
+module github.com/spudtrooper/wayback
 
 go 1.15
